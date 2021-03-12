@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import './index.scss';
+import './index.css';
 
 Banner.propTypes = {
     title: PropTypes.string,

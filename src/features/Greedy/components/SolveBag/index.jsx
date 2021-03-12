@@ -1,4 +1,4 @@
-import 'features/Greedy/pages/Main/index.scss';
+import 'features/Greedy/pages/Main/index.css';
 import { setGrLastW, setBbLastW, setListResult, setGrResult, setGrTGT, setBbTGT, solveComplete } from 'features/Greedy/sortItemSlice';
 import PropTypes from 'prop-types';
 import React from 'react';

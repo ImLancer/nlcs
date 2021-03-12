@@ -1,9 +1,7 @@
 import React, { Suspense, useState } from 'react';
 import { BrowserRouter, Redirect, Route, Switch } from 'react-router-dom';
-import './app.scss';
 import NotFound from './components/NotFound';
-import Header from './components/Header'
-import Header from './components/Header'
+import Header from './components/Header';
 import { setByHand } from 'features/Greedy/greedySlice';
 import { useDispatch } from 'react-redux';
 

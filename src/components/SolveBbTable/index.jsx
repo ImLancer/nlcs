@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 import { Button, Table } from 'reactstrap';
-import './index.scss';
+import './index.css';
 import SolveList from './SolveList';
 
 SolveTable.propTypes = {

@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 import { Table } from 'reactstrap';
-import './index.scss';
+import './index.css';
 import List from './List';
 
 CreateTable.propTypes = {

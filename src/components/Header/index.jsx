@@ -10,7 +10,7 @@ import {
   NavLink,
   NavbarText
 } from "reactstrap";
-import "./index.scss";
+import "./index.css";
 
 import checkImg from "../../assets/images/switch-off.png";
 import checkImgComp from "../../assets/images/switch-on.png";

@@ -3,7 +3,7 @@ import { FastField, Form, Formik } from 'formik';
 import PropTypes from 'prop-types';
 import React from 'react';
 import { Button, FormGroup } from 'reactstrap';
-import './index.scss';
+import './index.css';
 import * as Yup from 'yup';
 
 QuaVaForm.propTypes = {

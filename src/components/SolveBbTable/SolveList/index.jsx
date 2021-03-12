@@ -2,7 +2,7 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 import { object } from 'yup/lib/locale';
-import './index.scss';
+import './index.css';
 
 
 listItem.propTypes = {

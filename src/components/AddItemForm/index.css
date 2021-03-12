@@ -1,0 +1,9 @@
+.font {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.flex-end {
+  display: flex;
+  justify-content: flex-end;
+}

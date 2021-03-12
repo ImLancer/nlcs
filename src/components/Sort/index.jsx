@@ -2,7 +2,7 @@ import { setSortComplete, swapSortItem } from 'features/Greedy/sortItemSlice';
 import PropTypes from 'prop-types';
 import React from 'react';
 import { Button } from 'reactstrap';
-import './index.scss';
+import './index.css';
 
 sort.propTypes = {
   onClick: PropTypes.func,
